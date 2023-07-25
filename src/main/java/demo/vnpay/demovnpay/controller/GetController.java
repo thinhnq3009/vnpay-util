@@ -9,4 +9,6 @@ public class GetController {
     public String vnpay() {
         return "payment";
     }
+
+
 }
